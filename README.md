@@ -1,3 +1,4 @@
-<h1 style="color: blue;">Hi there! 👋 I'm Dhaval</h1>
+# Hi there! 👋 I'm Dhaval
 
-Welcome to my GitHub profile!
+[![GitHub followers](https://img.shields.io/github/followers/Dhaval?label=Follow&style=social)](https://github.com/Dhaval)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhaval)
